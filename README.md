@@ -71,7 +71,7 @@ Browser
 Requirements: Docker Engine with Docker Compose.
 
 ```bash
-git clone https://github.com/akashrajilan/invoice-intelligence.git
+git clone https://github.com/siddhantkhare178-pixel/Invoice-Intelligence-
 cd invoice-intelligence
 
 # Optional: enables Groq structured extraction.
